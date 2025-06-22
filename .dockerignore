@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+datasets/
+LightFM_weights/
+.env
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+api_temp/
